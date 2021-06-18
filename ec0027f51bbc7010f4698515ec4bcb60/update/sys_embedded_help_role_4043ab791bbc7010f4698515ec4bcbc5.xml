@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_654406_collect_1.sb_admin" name="x_654406_collect_1.sb_admin">0443ab791bbc7010f4698515ec4bcbc2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2021-06-18 09:21:14</sys_created_on>
+        <sys_id>4043ab791bbc7010f4698515ec4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0443ab791bbc7010f4698515ec4bcbc2</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_654406_collect_1">ec0027f51bbc7010f4698515ec4bcb60</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">ec0027f51bbc7010f4698515ec4bcb60</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4043ab791bbc7010f4698515ec4bcbc5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2021-06-18 09:21:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

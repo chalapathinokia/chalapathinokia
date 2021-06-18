@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Suggestion" max_length="40" name="x_654406_collect_1_suggestion" sizeclass="1" type="collection">
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
+        <element label="Date purchased" max_length="40" name="date_purchased" type="glide_date"/>
+        <element display="true" label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Item" max_length="150" name="item" type="string"/>
+        <element label="Suggestion" max_length="400" name="suggestion" type="string"/>
+        <element label="Value" max_length="40" name="value" type="integer"/>
+    </element>
+</database>
